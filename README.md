@@ -1,7 +1,5 @@
 # Sample Project
-<img alt="Tags" src="https://img.shields.io/badge/-CNN-brightgreenn">
-<img alt="Tags" src="https://img.shields.io/badge/-Machine  Learning-brightgreenn">
-<img alt="Tags" src="https://img.shields.io/badge/-keras-brightgreenn">
+<img alt="Tags" src="https://img.shields.io/badge/-CNN-brightgreenn"><img alt="Tags" src="https://img.shields.io/badge/-Machine  Learning-brightgreenn"><img alt="Tags" src="https://img.shields.io/badge/-keras-brightgreenn">
 
 
 
